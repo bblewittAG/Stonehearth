@@ -29,6 +29,16 @@
 					"recipe_name": "More Leather",
 					"description": "Allows the collection of leather",
 					"flavor": ""
+				},
+				"brightbell_recipe": {
+					"recipe_name": "Brightbell Flower",
+					"description": "Allows the decoration of brightbell",
+					"flavor": ""
+				},
+				"silkweed_recipe": {
+					"recipe_name": "Silkweed Flower",
+					"description": "Allows the decoration of Silkweed",
+					"flavor": ""
 				}
 			}
 		},
@@ -185,6 +195,18 @@
 			"sword": {
 				"description": "Best Sword",
 				"display_name": "Sword"
+			}
+		},
+		"silkweed": {
+			"silkweed": {
+				"description": "Silkweed Flower",
+				"display_name": "Silkweed"
+			}
+		},
+		"brightbell": {
+			"brightbell": {
+				"description": "Brightbell Flower",
+				"display_name": "Brightbell"
 			}
 		}
 	}

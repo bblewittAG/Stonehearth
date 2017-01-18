@@ -1,0 +1,27 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(brightbell.qb)"
+            ]
+         }
+      },
+      "render_info": {
+         "scale": 0.2
+      },
+      "mob": {
+         "model_origin": { "x": 0, "y": 0, "z": 0 },
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(craftmod:entities.brightbell.brightbell.display_name)",
+         "description": "i18n(craftmod:entities.brightbell.brightbell.description)",
+         "icon": "file(brightbell.png)",
+         "category": "furniture",
+         "material_tags": "plant decoration crafted stockpile_decoration"
+      }
+   }
+}

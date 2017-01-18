@@ -1,0 +1,19 @@
+{
+	"type": "recipe",
+	"work_units": 1,
+	"recipe_name": "i18n(craftmod:jobs.weaver.recipes.brightbell_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.weaver.recipes.brightbell_recipe.description)",
+	"flavor": "",
+	"portrait": "/craftmod/entities/brightbell/brightbell_recipe.png",
+	"workshop": "stonehearth:weaver:workbench",
+	"level_requirement": 0,
+	"ingredients": [{
+		"material": "fiber resource",
+		"count": 1
+	}],
+	"produces": [
+		{
+		"item": "stonehearth:refined:leather_bolt"
+		}
+	]
+}
