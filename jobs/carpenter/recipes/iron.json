@@ -1,0 +1,19 @@
+{
+	"type": "recipe",
+	"work_units": 1,
+	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.iron_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.blacksmith.recipes.iron_recipe.description)",
+	"flavor": "",
+	"portrait": "/craftmod/entities/iron/iron_recipe.png",
+	"workshop": "stonehearth:carpenter:workbench",
+	"level_requirement": 0,
+	"ingredients": [{
+         "material": "wood resource",
+         "count": 1
+      }],
+	"produces": [
+		{
+		"item": "stonehearth:resources:iron:ore"
+		}
+	]
+}

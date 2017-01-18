@@ -1,0 +1,46 @@
+{
+	"type": "recipe",
+	"work_units": 1,
+	"recipe_name": "i18n(craftmod:jobs.weaver.recipes.fiber_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.weaver.recipes.fiber_recipe.description)",
+	"flavor": "",
+	"portrait": "/craftmod/entities/fiber/fiber_recipe.png",
+	"workshop": "stonehearth:weaver:workbench",
+	"level_requirement": 0,
+	"ingredients": [{
+		"material": "fiber resource",
+		"count": 1
+	}],
+	"produces": [
+		{
+		"item": "stonehearth:resources:fiber:silkweed_bundle"
+		},
+		{
+		"item": "stonehearth:resources:fiber:silkweed_bundle"
+		},
+		{
+		"item": "stonehearth:resources:fiber:silkweed_bundle"
+		},
+		{
+		"item": "stonehearth:resources:fiber:silkweed_bundle"
+		},
+		{
+		"item": "stonehearth:resources:fiber:silkweed_bundle"
+		},
+		{
+		"item": "stonehearth:resources:fiber:silkweed_bundle"
+		},
+		{
+		"item": "stonehearth:resources:fiber:silkweed_bundle"
+		},
+		{
+		"item": "stonehearth:resources:fiber:silkweed_bundle"
+		},
+		{
+		"item": "stonehearth:resources:fiber:silkweed_bundle"
+		},
+		{
+		"item": "stonehearth:resources:fiber:silkweed_bundle"
+		}
+	]
+}

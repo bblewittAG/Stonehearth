@@ -1,0 +1,33 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(silver.qb)"
+            ]
+         }
+      }
+   },
+   "entity_data": {
+      "stonehearth:net_worth": {
+         "value_in_gold": 1200,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": true,
+            "sellable": true,
+            "shopkeeper_level": 1,
+            "shopkeeper_type": "caravan"
+         }
+      },
+      "stonehearth:catalog": {
+         "display_name": "i18n(craftmod:entities.silver.silver.display_name)",
+         "description": "i18n(craftmod:entities.silver.silver.description)",
+         "icon": "file(silver.png)",
+         "is_item": true,
+         "category": "resources",
+         "material_tags": "stockpile_ore silver ore resource"
+      }
+   }
+}

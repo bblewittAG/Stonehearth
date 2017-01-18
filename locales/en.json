@@ -1,0 +1,191 @@
+{
+	"jobs": {
+		"carpenter": {
+			"recipes": {
+				"wood_recipe": {
+					"recipe_name": "More Wood",
+					"description": "Allows the collection of wood",
+					"flavor": ""
+				}
+			}
+		},
+		"mason": {
+			"recipes": {
+				"stone_recipe": {
+					"recipe_name": "More Stone",
+					"description": "Allows the collection of stone",
+					"flavor": ""
+				}
+			}
+		},
+		"weaver": {
+			"recipes": {
+				"fiber_recipe": {
+					"recipe_name": "More Fiber",
+					"description": "Allows the collection of fiber",
+					"flavor": ""
+				},
+				"leather_recipe": {
+					"recipe_name": "More Leather",
+					"description": "Allows the collection of leather",
+					"flavor": ""
+				}
+			}
+		},
+		"potter": {
+			"recipes": {
+				"clay_recipe": {
+					"recipe_name": "More Clay",
+					"description": "Allows the collection of clay",
+					"flavor": ""
+				}
+			}
+		},
+		"blacksmith": {
+			"recipes": {
+				"copper_recipe": {
+					"recipe_name": "More Copper",
+					"description": "Allows the collection of copper",
+					"flavor": ""
+				},
+				"iron_recipe": {
+					"recipe_name": "More Iron",
+					"description": "Allows the collection of iron",
+					"flavor": ""
+				},
+				"coal_recipe": {
+					"recipe_name": "More Coal",
+					"description": "Allows the collection of coal",
+					"flavor": ""
+				},
+				"tin_recipe": {
+					"recipe_name": "More Tin",
+					"description": "Allows the collection of tin",
+					"flavor": ""
+				},
+				"silver_recipe": {
+					"recipe_name": "More Silver",
+					"description": "Allows the collection of silver",
+					"flavor": ""
+				},
+				"gold_recipe": {
+					"recipe_name": "More Gold",
+					"description": "Allows the collection of gold",
+					"flavor": ""
+				},
+				"helmet_recipe": {
+					"recipe_name": "Best Helmet",
+					"description": "Epic Helmet",
+					"flavor": ""
+				},
+				"mail_recipe": {
+					"recipe_name": "Best Mail",
+					"description": "Epic Mail",
+					"flavor": ""
+				},
+				"shield_recipe": {
+					"recipe_name": "Best Shield",
+					"description": "Epic Shield",
+					"flavor": ""
+				},
+				"sword_recipe": {
+					"recipe_name": "Best Sword",
+					"description": "Epic Sword",
+					"flavor": ""
+				}
+			}
+		}
+	},
+	"entities": {
+		"wood": {
+			"wood": {
+				"description": "Easy Wood",
+				"display_name": "Wood"
+			}
+		},
+		"stone": {
+			"stone": {
+				"description": "Easy Stone",
+				"display_name": "Stone"
+			}
+		},
+		"copper": {
+			"copper": {
+				"description": "Easy Copper",
+				"display_name": "Copper"
+			}
+		},
+		"tin": {
+			"tin": {
+				"description": "Easy Tin",
+				"display_name": "Tin"
+			}
+		},
+		"iron": {
+			"iron": {
+				"description": "Easy Iron",
+				"display_name": "Iron"
+			}
+		},
+		"coal": {
+			"coal": {
+				"description": "Easy Coal",
+				"display_name": "Coal"
+			}
+		},
+		"silver": {
+			"silver": {
+				"description": "Easy Silver",
+				"display_name": "Silver"
+			}
+		},
+		"gold": {
+			"gold": {
+				"description": "Easy Gold",
+				"display_name": "Gold"
+			}
+		},
+		"clay": {
+			"clay": {
+				"description": "Easy Clay",
+				"display_name": "Clay"
+			}
+		},
+		"fiber": {
+			"fiber": {
+				"description": "Easy Fiber",
+				"display_name": "Fiber"
+			}
+		},
+		"leather": {
+			"leather": {
+				"description": "Easy Leather",
+				"display_name": "Leather"
+			}
+		},
+		"shield": {
+			"shield": {
+				"description": "Best Shield",
+				"display_name": "Shield"
+			}
+		},
+		"mail": {
+			"mail": {
+				"description": "Best Mail",
+				"display_name": "Mail"
+			}
+		},
+		"helmet": {
+			"helmet": {
+				"description": "Best Helmet",
+				"display_name": "Hemlet"
+			}
+		},
+		"sword": {
+			"sword": {
+				"description": "Best Sword",
+				"display_name": "Sword"
+			}
+		}
+	}
+}

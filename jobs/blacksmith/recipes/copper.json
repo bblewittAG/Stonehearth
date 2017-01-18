@@ -1,0 +1,31 @@
+{
+	"type": "recipe",
+	"work_units": 1,
+	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.copper_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.blacksmith.recipes.copper_recipe.description)",
+	"flavor": "",
+	"portrait": "/craftmod/entities/copper/copper_recipe.png",
+	"workshop": "stonehearth:blacksmith:forge",
+	"level_requirement": 0,
+	"ingredients": [{
+         "uri": "stonehearth:resources:copper:ore",
+         "count": 1
+      }],
+	"produces": [
+		{
+		"item": "stonehearth:resources:copper:ore"
+		},
+		{
+		"item": "stonehearth:resources:copper:ore"
+		},
+		{
+		"item": "stonehearth:resources:copper:ore"
+		},
+		{
+		"item": "stonehearth:resources:copper:ore"
+		},
+		{
+		"item": "stonehearth:resources:copper:ore"
+		}
+	]
+}

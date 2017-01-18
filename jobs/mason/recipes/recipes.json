@@ -1,0 +1,11 @@
+{
+	"craftable_recipes": {
+		"storage": {
+			"recipes": {
+				"stone": {
+					"recipe": "file(stone.json)"
+				}
+			}
+		}
+	}
+}

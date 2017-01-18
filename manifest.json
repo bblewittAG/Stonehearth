@@ -1,0 +1,46 @@
+{
+	"info": {
+		"name": "craftmod",
+		"version": 3
+	},
+	"default_locale": "en",
+	"mixintos": {
+		"/stonehearth/jobs/carpenter/recipes/recipes.json": "file(jobs/carpenter/recipes/recipes.json)",
+		"/stonehearth/jobs/mason/recipes/recipes.json" : "file(jobs/mason/recipes/recipes.json)",
+		"/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(jobs/blacksmith/recipes/recipes.json)",
+		"/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)",
+		"/stonehearth/jobs/weaver/recipes/recipes.json" : "file(jobs/weaver/recipes/recipes.json)",
+		"/stonehearth/jobs/archer/archer_description.json" : "file(jobs/exp/archer_description.json)",
+		"/stonehearth/jobs/blacksmith/blacksmith_description.json" : "file(jobs/exp/blacksmith_description.json)",
+		"/stonehearth/jobs/carpenter/carpenter_description.json" : "file(jobs/exp/carpenter_description.json)",
+		"/stonehearth/jobs/cleric/cleric_description.json" : "file(jobs/exp/cleric_description.json)",
+		"/stonehearth/jobs/cook/cook_description.json" : "file(jobs/exp/cook_description.json)",
+		"/stonehearth/jobs/engineer/engineer_description.json" : "file(jobs/exp/engineer_description.json)",
+		"/stonehearth/jobs/farmer/farmer_description.json" : "file(jobs/exp/farmer_description.json)",
+		"/stonehearth/jobs/footman/footman_description.json" : "file(jobs/exp/footman_description.json)",
+		"/stonehearth/jobs/herbalist/herbalist_description.json" : "file(jobs/exp/herbalist_description.json)",
+		"/stonehearth/jobs/knight/knight_description.json" : "file(jobs/exp/knight_description.json)",
+		"/stonehearth/jobs/mason/mason_description.json" : "file(jobs/exp/mason_description.json)",
+		"/stonehearth/jobs/potter/potter_description.json" : "file(jobs/exp/potter_description.json)",
+		"/stonehearth/jobs/shepherd/shepherd_description.json" : "file(jobs/exp/shepherd_description.json)",
+		"/stonehearth/jobs/trapper/trapper_description.json" : "file(jobs/exp/trapper_description.json)",
+		"/stonehearth/jobs/weaver/weaver_description.json" : "file(jobs/exp/weaver_description.json)"
+	},
+	"aliases": {
+		"wood": "file(entities/wood)",
+		"stone": "file(entities/stone)",
+		"copper": "file(entities/copper)",
+		"tin": "file(entities/tin)",
+		"iron": "file(entities/iron)",
+		"coal": "file(entities/coal)",
+		"silver": "file(entities/silver)",
+		"gold": "file(entities/gold)",
+		"clay": "file(entities/clay)",
+		"fiber": "file(entities/fiber)",
+		"leather": "file(entities/leather)",
+		"sword": "file(entities/sword)",
+		"helmet": "file(entities/helmet)",
+		"mail": "file(entities/mail)",
+		"shield": "file(entities/shield)"
+	}
+}

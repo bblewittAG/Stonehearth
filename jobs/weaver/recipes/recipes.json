@@ -1,0 +1,14 @@
+{
+	"craftable_recipes": {
+		"crafting_materials": {
+			"recipes": {
+				"fiber": {
+					"recipe": "file(fiber.json)"
+				},
+				"leather": {
+					"recipe": "file(leather.json)"
+				}
+			}
+		}
+	}
+}

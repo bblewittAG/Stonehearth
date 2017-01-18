@@ -1,0 +1,7 @@
+{
+   "xp_rewards": {
+      "befriend_pet": 3500,
+      "unsuccessful_trap": 500,
+      "successful_trap": 1000
+   }
+}

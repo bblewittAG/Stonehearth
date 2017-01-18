@@ -1,0 +1,46 @@
+{
+	"craftable_recipes": {
+		"smelt": {
+			"recipes": {
+				"copper": {
+					"recipe": "file(copper.json)"
+				},
+				"tin": {
+					"recipe": "file(tin.json)"
+				},
+				"iron": {
+					"recipe": "file(iron.json)"
+				},
+				"coal": {
+					"recipe": "file(coal.json)"
+				},
+				"silver": {
+					"recipe": "file(silver.json)"
+				},
+				"gold": {
+					"recipe": "file(gold.json)"
+				}
+			}
+		},
+		"weapons": {
+			"recipes": {
+				"sword": {
+					"recipe": "file(sword.json)"
+				}
+			}
+		},
+		"armor": {
+			"recipes": {
+				"helmet": {
+					"recipe": "file(helmet.json)"
+				},
+				"shield": {
+					"recipe": "file(shield.json)"
+				},
+				"mail": {
+					"recipe": "file(mail.json)"
+				}
+			}
+		}
+	}
+}

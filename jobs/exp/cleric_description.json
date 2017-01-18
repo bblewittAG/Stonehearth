@@ -1,0 +1,7 @@
+{
+   "xp_rewards": {
+      "heal_entity": 200,
+      "heal_entity_in_combat": 100,
+      "town_protection": 100
+   }
+}

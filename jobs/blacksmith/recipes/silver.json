@@ -1,0 +1,31 @@
+{
+	"type": "recipe",
+	"work_units": 1,
+	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.silver_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.blacksmith.recipes.silver_recipe.description)",
+	"flavor": "",
+	"portrait": "/craftmod/entities/silver/silver_recipe.png",
+	"workshop": "stonehearth:blacksmith:forge",
+	"level_requirement": 0,
+	"ingredients": [{
+         "uri": "stonehearth:resources:silver:ore",
+         "count": 1
+      }],
+	"produces": [
+		{
+		"item": "stonehearth:resources:silver:ore"
+		},
+		{
+		"item": "stonehearth:resources:silver:ore"
+		},
+		{
+		"item": "stonehearth:resources:silver:ore"
+		},
+		{
+		"item": "stonehearth:resources:silver:ore"
+		},
+		{
+		"item": "stonehearth:resources:silver:ore"
+		}
+	]
+}

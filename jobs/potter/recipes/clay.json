@@ -1,0 +1,46 @@
+{
+	"type": "recipe",
+	"work_units": 1,
+	"recipe_name": "i18n(craftmod:jobs.potter.recipes.clay_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.potter.recipes.clay_recipe.description)",
+	"flavor": "",
+	"portrait": "/craftmod/entities/clay/clay_recipe.png",
+	"workshop": "stonehearth:potter:workbench",
+	"level_requirement": 0,
+	"ingredients": [{
+		"material": "clay resource",
+		"count": 1
+	}],
+	"produces": [
+		{
+		"item": "stonehearth:resources:clay:clay_mound"
+		},
+		{
+		"item": "stonehearth:resources:clay:clay_mound"
+		},
+		{
+		"item": "stonehearth:resources:clay:clay_mound"
+		},
+		{
+		"item": "stonehearth:resources:clay:clay_mound"
+		},
+		{
+		"item": "stonehearth:resources:clay:clay_mound"
+		},
+		{
+		"item": "stonehearth:resources:clay:clay_mound"
+		},
+		{
+		"item": "stonehearth:resources:clay:clay_mound"
+		},
+		{
+		"item": "stonehearth:resources:clay:clay_mound"
+		},
+		{
+		"item": "stonehearth:resources:clay:clay_mound"
+		},
+		{
+		"item": "stonehearth:resources:clay:clay_mound"
+		}
+	]
+}
