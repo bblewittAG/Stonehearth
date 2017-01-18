@@ -13,7 +13,7 @@
 	}],
 	"produces": [
 		{
-		"item": "stonehearth:refined:leather_bolt"
+		"item": "craftmod:brightbell"
 		}
 	]
 }

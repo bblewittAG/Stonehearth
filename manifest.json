@@ -41,6 +41,8 @@
 		"sword": "file(entities/sword)",
 		"helmet": "file(entities/helmet)",
 		"mail": "file(entities/mail)",
-		"shield": "file(entities/shield)"
+		"shield": "file(entities/shield)",
+		"silkweed": "file(entities/silkweed)",
+		"brightbell": "file(entities/brightbell)"
 	}
 }
