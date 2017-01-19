@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 1,
+   "recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.armor.mail_recipe.recipe_name)",
+   "description": "i18n(craftmod:jobs.blacksmith.recipes.armor.mail_recipe.description)",
+   "flavor": "",
+   "portrait": "/craftmod/entities/armor/archer/mail/mail.png",
+   "workshop": "stonehearth:blacksmith:workbench",
+   "level_requirement": 0,
+   "ingredients": [
+      {
+         "uri": "stonehearth:refined:copper_ingot",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "craftmod:armor:archer:mail"
+      }
+   ]
+}

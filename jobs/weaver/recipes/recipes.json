@@ -7,12 +7,6 @@
 				},
 				"leather": {
 					"recipe": "file(leather.json)"
-				},
-				"silkweed": {
-					"recipe": "file(silkweed.json)"
-				},
-				"brightbell": {
-					"recipe": "file(brightbell.json)"
 				}
 			}
 		}

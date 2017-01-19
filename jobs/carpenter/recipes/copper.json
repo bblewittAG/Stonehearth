@@ -1,10 +1,10 @@
 {
 	"type": "recipe",
 	"work_units": 1,
-	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.copper_recipe.recipe_name)",
-	"description": "i18n(craftmod:jobs.blacksmith.recipes.copper_recipe.description)",
+	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.ore.copper_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.blacksmith.recipes.ore.copper_recipe.description)",
 	"flavor": "",
-	"portrait": "/craftmod/entities/copper/copper_recipe.png",
+	"portrait": "/craftmod/entities/copper/copper.png",
 	"workshop": "stonehearth:carpenter:workbench",
 	"level_requirement": 0,
 	"ingredients": [{

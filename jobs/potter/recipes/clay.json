@@ -4,7 +4,7 @@
 	"recipe_name": "i18n(craftmod:jobs.potter.recipes.clay_recipe.recipe_name)",
 	"description": "i18n(craftmod:jobs.potter.recipes.clay_recipe.description)",
 	"flavor": "",
-	"portrait": "/craftmod/entities/clay/clay_recipe.png",
+	"portrait": "/craftmod/entities/clay/clay.png",
 	"workshop": "stonehearth:potter:workbench",
 	"level_requirement": 0,
 	"ingredients": [{

@@ -1,10 +1,10 @@
 {
 	"type": "recipe",
 	"work_units": 1,
-	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.gold_recipe.recipe_name)",
-	"description": "i18n(craftmod:jobs.blacksmith.recipes.gold_recipe.description)",
+	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.ore.gold_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.blacksmith.recipes.ore.gold_recipe.description)",
 	"flavor": "",
-	"portrait": "/craftmod/entities/gold/gold_recipe.png",
+	"portrait": "/craftmod/entities/gold/gold.png",
 	"workshop": "stonehearth:blacksmith:forge",
 	"level_requirement": 0,
 	"ingredients": [{

@@ -4,7 +4,7 @@
 	"recipe_name": "i18n(craftmod:jobs.mason.recipes.stone_recipe.recipe_name)",
 	"description": "i18n(craftmod:jobs.mason.recipes.stone_recipe.description)",
 	"flavor": "",
-	"portrait": "/craftmod/entities/stone/stone_recipe.png",
+	"portrait": "/craftmod/entities/stone/stone.png",
 	"workshop": "stonehearth:mason:workbench",
 	"ingredients": [{
 		"material": "stone resource",

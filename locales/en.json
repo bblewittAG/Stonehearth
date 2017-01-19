@@ -1,5 +1,65 @@
 {
 	"jobs": {
+		"blacksmith": {
+			"recipes": {
+				"ore": {
+					"coal_recipe": {
+						"recipe_name": "More Coal",
+						"description": "Allows the collection of coal",
+						"flavor": ""
+					},
+					"copper_recipe": {
+						"recipe_name": "More Copper",
+						"description": "Allows the collection of copper",
+						"flavor": ""
+					},
+					"gold_recipe": {
+						"recipe_name": "More Gold",
+						"description": "Allows the collection of gold",
+						"flavor": ""
+					},
+					"iron_recipe": {
+						"recipe_name": "More Iron",
+						"description": "Allows the collection of iron",
+						"flavor": ""
+					},
+					"silver_recipe": {
+						"recipe_name": "More Silver",
+						"description": "Allows the collection of silver",
+						"flavor": ""
+					},
+					"tin_recipe": {
+						"recipe_name": "More Tin",
+						"description": "Allows the collection of tin",
+						"flavor": ""
+					}
+				},
+				"weapons": {
+					"sword_recipe": {
+						"recipe_name": "Best Sword",
+						"description": "Epic Sword",
+						"flavor": ""
+					}
+				},
+				"armor" : {
+					"helmet_recipe": {
+						"recipe_name": "Best Helmet",
+						"description": "Epic Helmet",
+						"flavor": ""
+					},
+					"mail_recipe": {
+						"recipe_name": "Best Mail",
+						"description": "Epic Mail",
+						"flavor": ""
+					},
+					"shield_recipe": {
+						"recipe_name": "Best Shield",
+						"description": "Epic Shield",
+						"flavor": ""
+					}
+				}
+			}
+		},
 		"carpenter": {
 			"recipes": {
 				"wood_recipe": {
@@ -18,6 +78,15 @@
 				}
 			}
 		},
+		"potter": {
+			"recipes": {
+				"clay_recipe": {
+					"recipe_name": "More Clay",
+					"description": "Allows the collection of clay",
+					"flavor": ""
+				}
+			}
+		},
 		"weaver": {
 			"recipes": {
 				"fiber_recipe": {
@@ -28,79 +97,6 @@
 				"leather_recipe": {
 					"recipe_name": "More Leather",
 					"description": "Allows the collection of leather",
-					"flavor": ""
-				},
-				"brightbell_recipe": {
-					"recipe_name": "Brightbell Flower",
-					"description": "Allows the decoration of brightbell",
-					"flavor": ""
-				},
-				"silkweed_recipe": {
-					"recipe_name": "Silkweed Flower",
-					"description": "Allows the decoration of Silkweed",
-					"flavor": ""
-				}
-			}
-		},
-		"potter": {
-			"recipes": {
-				"clay_recipe": {
-					"recipe_name": "More Clay",
-					"description": "Allows the collection of clay",
-					"flavor": ""
-				}
-			}
-		},
-		"blacksmith": {
-			"recipes": {
-				"copper_recipe": {
-					"recipe_name": "More Copper",
-					"description": "Allows the collection of copper",
-					"flavor": ""
-				},
-				"iron_recipe": {
-					"recipe_name": "More Iron",
-					"description": "Allows the collection of iron",
-					"flavor": ""
-				},
-				"coal_recipe": {
-					"recipe_name": "More Coal",
-					"description": "Allows the collection of coal",
-					"flavor": ""
-				},
-				"tin_recipe": {
-					"recipe_name": "More Tin",
-					"description": "Allows the collection of tin",
-					"flavor": ""
-				},
-				"silver_recipe": {
-					"recipe_name": "More Silver",
-					"description": "Allows the collection of silver",
-					"flavor": ""
-				},
-				"gold_recipe": {
-					"recipe_name": "More Gold",
-					"description": "Allows the collection of gold",
-					"flavor": ""
-				},
-				"helmet_recipe": {
-					"recipe_name": "Best Helmet",
-					"description": "Epic Helmet",
-					"flavor": ""
-				},
-				"mail_recipe": {
-					"recipe_name": "Best Mail",
-					"description": "Epic Mail",
-					"flavor": ""
-				},
-				"shield_recipe": {
-					"recipe_name": "Best Shield",
-					"description": "Epic Shield",
-					"flavor": ""
-				},
-				"sword_recipe": {
-					"recipe_name": "Best Sword",
-					"description": "Epic Sword",
 					"flavor": ""
 				}
 			}
@@ -195,18 +191,6 @@
 			"sword": {
 				"description": "Best Sword",
 				"display_name": "Sword"
-			}
-		},
-		"silkweed": {
-			"silkweed": {
-				"description": "Silkweed Flower",
-				"display_name": "Silkweed"
-			}
-		},
-		"brightbell": {
-			"brightbell": {
-				"description": "Brightbell Flower",
-				"display_name": "Brightbell"
 			}
 		}
 	}

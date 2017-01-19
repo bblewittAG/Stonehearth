@@ -1,0 +1,61 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(shield.qb)"
+            ]
+         }
+      },
+      "stonehearth:entity_forms": {
+         "iconic_form": "file(shield_iconic.json)"
+      },
+      "stonehearth:equipment_piece": {
+         "slot": "offhand",
+         "render_type": "attach_to_bone",
+         "postures": [
+            "stonehearth:combat",
+            "stonehearth:patrol",
+            "stonehearth:have_shield"
+         ],
+         "required_job_level": 0,
+         "ilevel": 160,
+         "roles": "knight_job",
+         "equip_effect": "stonehearth:effects:weapon_level_up"
+      }
+   },
+   "entity_data": {
+      "stonehearth:combat:armor_data": {
+         "base_damage_reduction": 600
+      },
+      "stonehearth:combat:melee_defenses": [
+         {
+            "name": "simple_shield_block",
+            "effect": "combat_1h_shield_block",
+            "active_frame": 4,
+            "cooldown": 1,
+            "priority": 0,
+            "chance_of_success": 1
+         }
+      ],
+      "stonehearth:net_worth": {
+         "value_in_gold": 90000,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": false,
+            "sellable": true,
+            "shopkeeper_level": 1,
+            "shopkeeper_type": "caravan"
+         }
+      },
+      "stonehearth:catalog": {
+         "display_name": "i18n(craftmod:entities.shield.shield.display_name)",
+         "description": "i18n(craftmod:entities.shield.shield.description)",
+         "icon": "file(shield.png)",
+         "category": "armor",
+         "material_tags": "metal armor heavy_armor stockpile_equipment"
+      }
+   }
+}

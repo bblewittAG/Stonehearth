@@ -1,10 +1,10 @@
 {
 	"type": "recipe",
 	"work_units": 1,
-	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.silver_recipe.recipe_name)",
-	"description": "i18n(craftmod:jobs.blacksmith.recipes.silver_recipe.description)",
+	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.ore.silver_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.blacksmith.recipes.ore.silver_recipe.description)",
 	"flavor": "",
-	"portrait": "/craftmod/entities/silver/silver_recipe.png",
+	"portrait": "/craftmod/entities/silver/silver.png",
 	"workshop": "stonehearth:carpenter:workbench",
 	"level_requirement": 0,
 	"ingredients": [{
