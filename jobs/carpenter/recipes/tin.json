@@ -4,7 +4,7 @@
 	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.ore.tin_recipe.recipe_name)",
 	"description": "i18n(craftmod:jobs.blacksmith.recipes.ore.tin_recipe.description)",
 	"flavor": "",
-	"portrait": "/craftmod/entities/tin/tin.png",
+	"portrait": "/craftmod/entities/resources/ores/tin/tin.png",
 	"workshop": "stonehearth:carpenter:workbench",
 	"level_requirement": 0,
 	"ingredients": [{

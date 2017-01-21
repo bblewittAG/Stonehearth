@@ -4,7 +4,7 @@
 	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.ore.coal_recipe.recipe_name)",
 	"description": "i18n(craftmod:jobs.blacksmith.recipes.ore.coal_recipe.description)",
 	"flavor": "",
-	"portrait": "/craftmod/entities/coal/coal.png",
+	"portrait": "/craftmod/entities/resources/ores/coal/coal.png",
 	"workshop": "stonehearth:blacksmith:forge",
 	"level_requirement": 0,
 	"ingredients": [{

@@ -39,16 +39,9 @@
 		"resources:refined:fiber": "file(entities/resources/refined/fiber)",
 		"resources:refined:leather": "file(entities/resources/refined/leather)",
 		"weapons:footman:sword": "file(entities/weapons/footman/sword)",
-		"weapons:knight:sword": "file (entities/weapons/knight/sword)",
-		"armor:archer:helmet": "file(entities/armor/archer/helmet)",
-		"armor:cleric:helmet": "file(entities/armor/cleric/helmet)",
 		"armor:footman:helmet": "file(entities/armor/footman/helmet)",
-		"armor:knight:helmet": "file(entities/armor/knight/helmet)",
-		"armor:archer:mail": "file(entities/armor/archer/mail)",
-		"armor:cleric:mail": "file(entities/armor/cleric/mail)",
 		"armor:footman:mail": "file(entities/armor/footman/mail)",
-		"armor:knight:mail": "file(entities/armor/knight/mail)",
-		"armor:footman:shield": "file(entities/armor/footman/shield)",
-		"armor:knight:shield": "file(entities/armor/knight/shield)"
+		"armor:archer:helmet": "file(entities/armor/archer/helmet)",
+		"armor:footman:shield": "file(entities/armor/footman/shield)"
 	}
 }

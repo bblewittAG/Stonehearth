@@ -26,9 +26,6 @@
 			"recipes": {
 				"fsword": {
 					"recipe": "file(fsword.json)"
-				},
-				"ksword": {
-					"recipe": "file(ksword.json)"
 				}
 			}
 		},
@@ -42,27 +39,6 @@
 				},
 				"fmail": {
 					"recipe": "file(fmail.json)"
-				},
-				"khelmet": {
-					"recipe": "file(khelmet.json)"
-				},
-				"kshield": {
-					"recipe": "file(kshield.json)"
-				},
-				"kmail": {
-					"recipe": "file(kmail.json)"
-				},
-				"chelmet": {
-					"recipe": "file(chelmet.json)"
-				},
-				"cmail": {
-					"recipe": "file(cmail.json)"
-				},
-				"ahelmet": {
-					"recipe": "file(ahelmet.json)"
-				},
-				"amail": {
-					"recipe": "file(amail.json)"
 				}
 			}
 		}

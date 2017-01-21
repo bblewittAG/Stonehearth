@@ -22,7 +22,7 @@
          ],
          "required_job_level": 0,
          "ilevel": 160,
-         "roles": "footman_job",
+         "roles": "footman_job knight_job",
          "equip_effect": "stonehearth:effects:weapon_level_up"
       }
    },

@@ -4,8 +4,9 @@
 	"recipe_name": "i18n(craftmod:jobs.carpenter.recipes.wood_recipe.recipe_name)",
 	"description": "i18n(craftmod:jobs.carpenter.recipes.wood_recipe.description)",
 	"flavor": "",
-	"portrait": "/craftmod/entities/wood/wood.png",
+	"portrait": "/craftmod/entities/resources/wood/wood.png",
 	"workshop": "stonehearth:carpenter:workbench",
+	"level_requirement": 0,
 	"ingredients": [{
 		"material": "wood resource",
 		"count": 1

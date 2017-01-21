@@ -4,7 +4,7 @@
 	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.ore.copper_recipe.recipe_name)",
 	"description": "i18n(craftmod:jobs.blacksmith.recipes.ore.copper_recipe.description)",
 	"flavor": "",
-	"portrait": "/craftmod/entities/copper/copper.png",
+	"portrait": "/craftmod/entities/resources/ores/copper/copper.png",
 	"workshop": "stonehearth:blacksmith:forge",
 	"level_requirement": 0,
 	"ingredients": [{
