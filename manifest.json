@@ -24,7 +24,12 @@
 		"stonehearth/jobs/potter/potter_description.json" : "file(jobs/exp/potter_description.json)",
 		"stonehearth/jobs/shepherd/shepherd_description.json" : "file(jobs/exp/shepherd_description.json)",
 		"stonehearth/jobs/trapper/trapper_description.json" : "file(jobs/exp/trapper_description.json)",
-		"stonehearth/jobs/weaver/weaver_description.json" : "file(jobs/exp/weaver_description.json)"
+		"stonehearth/jobs/weaver/weaver_description.json" : "file(jobs/exp/weaver_description.json)",
+		"rayyas_children/jobs/cook/rc_cook_description.json": "file(jobs/exp/rc_cook_description.json)",
+		"rayyas_children/jobs/herbalist/rc_herbalist_description.json": "file(jobs/exp/rc_herbalist_description.json)",
+		"rayyas_children/jobs/mason/rc_mason_description.json": "file(jobs/exp/rc_mason_description.json)",
+		"rayyas_children/jobs/potter/rc_potter_description.json": "file(jobs/exp/rc_potter_description.json)",
+		"rayyas_children/jobs/weaver/rc_weaver_description.json": "file(jobs/exp/rc_weaver_description.json)"
 	},
 	"aliases": {
 		"resources:wood": "file(entities/resources/wood)",

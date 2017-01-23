@@ -1,0 +1,11 @@
+{
+   "xp_rewards": {
+      "craft_level_0": 1500,
+      "craft_level_1": 1700,
+      "craft_level_2": 1900,
+      "craft_level_3": 2100,
+      "craft_level_4": 2300,
+      "craft_level_5": 2500,
+      "craft_level_6": 2700
+   }
+}

@@ -4,6 +4,15 @@
 			"recipes": {
 				"clay": {
 					"recipe": "file(clay.json)"
+				},
+				"coal": {
+					"recipe": "file(coal.json)"
+				},
+				"copper": {
+					"recipe": "file(copper.json)"
+				},
+				"iron": {
+					"recipe": "file(iron.json)"
 				}
 			}
 		}

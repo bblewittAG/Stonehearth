@@ -1,0 +1,19 @@
+{
+	"type": "recipe",
+	"work_units": 1,
+	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.ore.copper_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.blacksmith.recipes.ore.copper_recipe.description)",
+	"flavor": "",
+	"portrait": "/craftmod/entities/resources/ores/copper/copper.png",
+	"workshop": "stonehearth:potter:workbench",
+	"level_requirement": 0,
+	"ingredients": [{
+         "material": "clay resource",
+         "count": 1
+      }],
+	"produces": [
+		{
+		"item": "stonehearth:resources:copper:ore"
+		}
+	]
+}

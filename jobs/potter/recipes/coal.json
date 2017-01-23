@@ -1,0 +1,19 @@
+{
+	"type": "recipe",
+	"work_units": 1,
+	"recipe_name": "i18n(craftmod:jobs.blacksmith.recipes.ore.coal_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.blacksmith.recipes.ore.coal_recipe.description)",
+	"flavor": "",
+	"portrait": "/craftmod/entities/resources/ores/coal/coal.png",
+	"workshop": "stonehearth:potter:workbench",
+	"level_requirement": 0,
+	"ingredients": [{
+         "material": "clay resource",
+         "count": 1
+      }],
+	"produces": [
+		{
+		"item": "stonehearth:resources:coal:lump_of_coal"
+		}
+	]
+}
