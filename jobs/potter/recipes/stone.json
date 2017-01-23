@@ -1,0 +1,46 @@
+{
+	"type": "recipe",
+	"work_units": 1,
+	"recipe_name": "i18n(craftmod:jobs.mason.recipes.stone_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.mason.recipes.stone_recipe.description)",
+	"flavor": "",
+	"portrait": "/craftmod/entities/resources/stone/stone.png",
+	"workshop": "stonehearth:potter:workbench",
+	"level_requirement": 0,
+	"ingredients": [{
+		"material": "stone resource",
+		"count": 1
+	}],
+	"produces": [
+		{
+		"item": "stonehearth:resources:stone:hunk_of_stone"
+		},
+		{
+		"item": "stonehearth:resources:stone:hunk_of_stone"
+		},
+		{
+		"item": "stonehearth:resources:stone:hunk_of_stone"
+		},
+		{
+		"item": "stonehearth:resources:stone:hunk_of_stone"
+		},
+		{
+		"item": "stonehearth:resources:stone:hunk_of_stone"
+		},
+		{
+		"item": "stonehearth:resources:stone:hunk_of_stone"
+		},
+		{
+		"item": "stonehearth:resources:stone:hunk_of_stone"
+		},
+		{
+		"item": "stonehearth:resources:stone:hunk_of_stone"
+		},
+		{
+		"item": "stonehearth:resources:stone:hunk_of_stone"
+		},
+		{
+		"item": "stonehearth:resources:stone:hunk_of_stone"
+		}
+	]
+}

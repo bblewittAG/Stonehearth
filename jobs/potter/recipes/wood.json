@@ -1,0 +1,46 @@
+{
+	"type": "recipe",
+	"work_units": 1,
+	"recipe_name": "i18n(craftmod:jobs.carpenter.recipes.wood_recipe.recipe_name)",
+	"description": "i18n(craftmod:jobs.carpenter.recipes.wood_recipe.description)",
+	"flavor": "",
+	"portrait": "/craftmod/entities/resources/wood/wood.png",
+	"workshop": "stonehearth:potter:workbench",
+	"level_requirement": 0,
+	"ingredients": [{
+		"material": "wood resource",
+		"count": 1
+	}],
+	"produces": [
+	    {
+		"item": "stonehearth:resources:wood:oak_log"
+		},
+		{
+		"item": "stonehearth:resources:wood:oak_log"
+		},
+		{
+		"item": "stonehearth:resources:wood:oak_log"
+		},
+		{
+		"item": "stonehearth:resources:wood:oak_log"
+		},
+		{
+		"item": "stonehearth:resources:wood:oak_log"
+		},
+		{
+		"item": "stonehearth:resources:wood:oak_log"
+		},
+		{
+		"item": "stonehearth:resources:wood:oak_log"
+		},
+		{
+		"item": "stonehearth:resources:wood:oak_log"
+		},
+		{
+		"item": "stonehearth:resources:wood:oak_log"
+		},
+		{
+		"item": "stonehearth:resources:wood:oak_log"
+		}
+	]
+}
